@@ -131,3 +131,16 @@ p{
 .services-card p{
     font-size: 14px;
 }
+
+/* work section */
+#work{
+    padding-top: 100px;
+}
+#work img{
+    width: 330px;
+    border-radius: 10px;
+}
+#work .btn{
+    margin-top: 40px;
+    color: #fff;
+}
